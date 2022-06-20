@@ -1,0 +1,19 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiavuzzoFranco/Integration.git"
+  },
+  "author": "Chiavuzzo Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiavuzzoFranco/Integration/issues"
+  },
+  "homepage": "https://github.com/ChiavuzzoFranco/Integration#readme"
+}
