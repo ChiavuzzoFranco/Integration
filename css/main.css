@@ -139,9 +139,9 @@ p {
   .header .menu__btn {
     display: flex; } }
 
-.main {
+.hero {
   padding: 4rem 22rem; }
-  .main__title {
+  .hero__title {
     color: #002453;
     text-align: center;
     padding-bottom: 4rem; }
